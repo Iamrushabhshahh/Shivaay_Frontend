@@ -1,0 +1,68 @@
+--Home Page - This is the first page that visitors will see when they come to your website. It should provide a brief overview of what your dance website is about and what visitors can expect to find there.
+
+--About Page - This page should provide more detailed information about your dance studio or company, including your mission statement, history, and any relevant background information.
+
+--Gallery Page - This page should showcase photos and videos of your dance performances and events.
+
+
+--Contact Page - This page should include a contact form or email address where visitors can reach out to you with questions or to schedule a dance class.
+
+Classes Page - If you offer dance classes, this page should provide information about the different classes you offer, including the level of difficulty, age group, and style of dance.
+
+Schedule Page - This page should provide information about your dance class schedule, including days, times, and locations.
+
+Pricing Page - This page should provide a breakdown of the cost of your dance classes, packages, and other services that you offer.
+
+Registration Page - This page should provide a form for new students to register for classes and provide their payment information.
+
+Account Page - This page should allow registered students to log in to their account to view their class schedule, payment history, and make changes to their account information.
+
+ * Blog Page - If you have a blog, this page should include links to your blog posts.
+
+
+Payment Confirmation Page - This page should be displayed after a successful payment transaction to confirm the payment has been processed. 
+
+FAQ Page - This page should answer frequently asked questions about your dance studio or company.
+________________________________________________________________________________________
+--Instructor Page - This page should provide information about the dance instructors who teach at your studio, including their qualifications and experience.
+
+404 -Page Not Found  ________________________DONE
+
+Privacy Policy Page - This page should outline your privacy policy and how you collect, store, and use customer data, including their payment information. _______________DONE
+
+Refund Policy Page - This page should outline your refund policy for students who need to cancel or withdraw from a class._________________________DONE
+
+Term and Condition page-__________________________DONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .fab .fa-tiktok {
+    color: #111111;
+    filter: drop-shadow(-5px -5px 0 #24f6f0) contrast(150%) brightness(110%);
+    z-index: -1;
+  }
+  
+  .fab .fa-tiktok::after {
+    filter: drop-shadow(5px 5px 0 #F70250) contrast(150%) brightness(110%);
+    z-index: -1;
+  } */
